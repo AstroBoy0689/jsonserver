@@ -1,4 +1,4 @@
-{
+
     {
         "type": "stockline",
         "id": "1",
@@ -13,4 +13,3 @@
         "ext": "png",
         "url": "document/stockline/url"
     }
-}
