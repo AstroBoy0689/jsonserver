@@ -6,14 +6,14 @@
             "id": "1",
             "name": "trace",
             "ext": "pdf",
-            "url": "document/trace/url"
+            "url": "document/stockline/url"
         },
         {
             "type": "partnumber",
             "id": "2",
             "name": "stockline",
             "ext": "png",
-            "url": "document/stockline/url"
+            "url": "document/partnumber/url"
         }
     ]
 }
