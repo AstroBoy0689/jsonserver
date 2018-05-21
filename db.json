@@ -14,6 +14,13 @@
             "name": "stockline",
             "ext": "png",
             "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/18403061_239519413192336_6620519554166567182_n.jpg?_nc_cat=0&oh=a113ad044a97b1836010e50402fbc835&oe=5B94BBA7"
+        },
+        {
+            "type": "customer_PO",
+            "id": "3",
+            "name": "PO",
+            "ext": "tif",
+            "url": "http://cdn.wonderfulengineering.com/wp-content/uploads/2014/05/airplane-wallpaper-1.jpeg"
         }
     ]
 }
